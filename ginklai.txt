@@ -1,0 +1,7 @@
+6
+Peilis 1.0 0.5
+Kirvis 2.0 10.0
+Kardas 4.0 20.0
+Pjuklas 8.0 40.0
+Sautuvas 16.0 80.0
+Lazeris 30.0 160.0
